@@ -2,9 +2,10 @@
 // @name			Disable Weibo Article FollowMask
 // @name:zh-CN			取消微博文章关注阅读全文
 // @description                 用来解除部分微博文章要求关注作者才能阅读全文的限制
-// @version	 		1.04
+// @version	 		1.05
 // @author			GensouSakuya
 // @include			*weibo.com/ttarticle/*
+// @run-at          document-end
 // @require         https://code.jquery.com/jquery-3.1.1.min.js
 // @namespace https://greasyfork.org/users/194737
 // ==/UserScript==
